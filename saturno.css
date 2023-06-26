@@ -1,0 +1,30 @@
+h1{
+color: white;
+}
+
+body{
+background-image: url("espaço.jpg");
+background-size:100%;
+}
+
+.mudarcor{
+color: white;
+}
+
+
+h2{
+color: black;
+}
+
+h1{
+ text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+.imagem{
+text-align: center;
+}
+
