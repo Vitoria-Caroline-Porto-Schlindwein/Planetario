@@ -28,3 +28,9 @@ text-align: center;
 text-align: center;
 }
 
+@media screen and (maxwidth:480){
+ body{
+  font-size 30px;
+  background-size: 100%;
+  }
+}
